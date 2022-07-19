@@ -4,9 +4,9 @@ Team name: *A2-Group-39*
 
  
 
-Personal Information: 
+# Personal Information: 
 
-Amy Lovett 
+## Amy Lovett 
 
 Goes by the alias DeepFryGirl, 
 
@@ -26,7 +26,7 @@ Link to website page: https://deepfrygirl.github.io/
 
  
 
-Kaihang Eng 
+## Kaihang Eng 
 
 Interests in the wider field of IT, emcompossing, PCs, smartphones and a wide array of applications. 
 
@@ -44,7 +44,7 @@ IT Experience includes a plethora of different skill sets and abilities such as:
 
  
 
-Ahmed Khalaf 
+## Ahmed Khalaf 
 
 Interested in the field of software engineering 
 
@@ -58,7 +58,7 @@ IT experience includes learning to program from a young age using the language S
 
  
 
-Nicholas Kyriakakis 
+## Nicholas Kyriakakis 
 
 Interested in Finance and in relation to how IT can be efficient in smoothing those systems 
 
@@ -76,7 +76,7 @@ Myers Briggs and What kind of learning type tests all taken by group members res
 
  
 
-Using the results from the Myers Briggs test  
+# Using the results from the Myers Briggs test  
 
 Amy is an INFJ-A certifying as an Advocate for diplomatic and confident individualism skills 
 
@@ -92,9 +92,10 @@ Nicholas is an ESTJ-A certifying as an Executive for being a Sentinel and having
 
  
 
-Third test was different for each team member  
+# Third test was different for each team member  
 
-Amy selected Generic Conspiracists Beliefs Test In which she scored a 5/5 
+## Amy
+selected Generic Conspiracists Beliefs Test In which she scored a 5/5 
 
 Graphical user interface, text
 
@@ -108,27 +109,32 @@ Description automatically generated
 
  
 
-Kaihang selected a creativity test they scored a 50.91Chart, radar chart
+## Kaihang 
+selected a creativity test they scored a 50.91Chart, radar chart
 
 Description automatically generated 
 
  
 
-Nicholas selected another personality trait test Graphical user interface, text, application
+## Nicholas selected another personality trait test Graphical user interface, text, application
 
 Description automatically generated 
 
  
 
- Ideal Jobs for the team members are as followed: 
+# Ideal Jobs for the team members are as followed: 
 
-Amy – Working for Google with their Sentient Robots (AI specialisation)  
+### Amy 
+- AI specialisation  
 
-Ahmed – Software Engineer 
+### Ahmed 
+– Software Engineer 
 
-Kaihang – Software Programmer  
+### Kaihang 
+– Software Programmer  
 
-Nicholas – Financial Adviser  
+### Nicholas 
+– Financial Adviser  
 
 Leaving aside Nicholas’ Financial Adviser job selection, the ideal jobs from Amy, Ahmed and Kaihang all involve great usage of computer languages to create varying different outcomes focusing on certain fields, however being more specific between a programmer and an engineer is more title based with a focus on programmer generally solving solutions with pre-existing tools/frameworks where as an engineer leans more towards developing those tools/frameworks and software programmes focus on a single stage of the development cycle whereas the engineer see it from start to end.  
 
@@ -140,13 +146,13 @@ A financial advisor in compatibility to these aforementioned jobs would only use
 
  
 
-Tools used  
+# Tools used  
 
 Github a program used to consolidate the teams work onto an online repository system to where it can use its primary function of being a code hosting platform to where the team members can interact within the repository to control and collaborate on the project together leading to the creation of a website.  
 
 Microsoft teams is used as a general communication programme between users of the team be leaving direct messages within the team group chat and coordinating meetings.   
 
-Links to websites from team members:  
+# Links to websites from team members:  
 
 Amy - https://deepfrygirl.github.io/ 
 
