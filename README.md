@@ -10,7 +10,6 @@
 
 </b1>
 
-<section>
 
 <line>
 
@@ -173,7 +172,6 @@ https://github.com/DeepFryGirl/A2-Group-39-Git
 
 
 <b1></b1>
-<section>
 
  
 # Ideal Jobs for the team members are as follows: 
