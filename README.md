@@ -74,7 +74,8 @@ Team Profile test outcomes:
 
 Myers Briggs and What kind of learning type tests all taken by group members results below 
 
- 
+ ![Picture1](https://user-images.githubusercontent.com/107126263/179645085-9adf9241-1f12-431d-bcbe-b2619f9f9a36.png)
+
 
 # Using the results from the Myers Briggs test  
 
@@ -87,6 +88,7 @@ Kaihang is an INFP-T certifying as a Mediator for diplomatic and constant improv
 Nicholas is an ESTJ-A certifying as an Executive for being a Sentinel and having people mastery skills.  
 
  
+![Picture2](https://user-images.githubusercontent.com/107126263/179645281-b5dae594-4e36-4c69-b6ef-46bc9f3867f5.png)
 
  
 
@@ -94,18 +96,25 @@ Nicholas is an ESTJ-A certifying as an Executive for being a Sentinel and having
 
 # Third test was different for each team member  
 
+
+
 ## Amy
 selected Generic Conspiracists Beliefs Test In which she scored a 5/5 
 
 Graphical user interface, text
 
+![Picture3](https://user-images.githubusercontent.com/107126263/179645770-c9b3435e-2f65-4118-a2f2-11a5db305936.png)
+
 Description automatically generated 
 
-Ahmed selected a creativity test and they measure by score value his result was a 54Graphical user interface, website
+## Ahmed 
+selected a creativity test and they measure by score value his result was a 54Graphical user interface, website
 
 Description automatically generated 
 
  
+![Picture4](https://user-images.githubusercontent.com/107126263/179645742-b5d40f94-b01d-471d-80b0-04b51b81a358.png)
+
 
  
 
@@ -114,13 +123,18 @@ selected a creativity test they scored a 50.91Chart, radar chart
 
 Description automatically generated 
 
+
+![Picture5](https://user-images.githubusercontent.com/107126263/179645630-52ac3d59-8e63-4a49-a296-cb3e74beac95.png)
+
  
 
 ## Nicholas selected another personality trait test Graphical user interface, text, application
 
 Description automatically generated 
 
- 
+ ![Picture6](https://user-images.githubusercontent.com/107126263/179645565-87703846-3947-413b-b213-6b5c5019c84e.png)
+
+
 
 # Ideal Jobs for the team members are as followed: 
 
