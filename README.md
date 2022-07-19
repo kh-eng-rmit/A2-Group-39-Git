@@ -215,6 +215,8 @@ Data for employment outlook for this specific job is located within the software
 
 ### Amy – AI –
  As with software engineer, working in AI can also contain more of a focus on data analysis but still stems from software programming however as an even more specialised field it is reasonable to assume that the jobs within this field while limited in scope the jobs within this market will still be on an upward trend due to the amount of software programming jobs are increasing.
+ 
+ 
 Ranking these ideal jobs in terms of demand from employers sees Kaihang’s Software Programmer at the most in demand, Nicholas’ Financial adviser role at second most, whereas Amy and Ahmed in a more specialised version of software programmer with unspecified amounts of job positions and data at a Ahmed third and Amy fourth. 
 
 
@@ -228,8 +230,11 @@ Python, COBOL, SQL, Javascript, C++, database, SAS (statistical analysis system)
 
 ## How do the IT-specific skills in your required skill set rank in terms of demand from employers?
 IT-specific skillset ranking – SQL, JavaScript, System analysis, programming, Python, systems evaluation, operations analysis, C++, SAS, COBOL.
-How do the general skills in your required skill set rank in terms of demand from employers? 
-General skill ranking – Speaking, Active listening, writing, coordination with others, instructing, critical thinking, monitoring, judgement and decision making, complex problem solving, time management, serving others, management of personal resources, management of finite resources, social perceptiveness, reading comprehension.
+
+##How do the general skills in your required skill set rank in terms of demand from employers? 
+
+### General skill ranking 
+– Speaking, Active listening, writing, coordination with others, instructing, critical thinking, monitoring, judgement and decision making, complex problem solving, time management, serving others, management of personal resources, management of finite resources, social perceptiveness, reading comprehension.
 
 ## What are the three highest ranked IT-specific skills which are not in your required skill set? 
 Three highest ranked IT-specific skill which were not listed in our skill sets are: Microsoft windows, project management and SAP 
@@ -239,7 +244,8 @@ What are the three highest ranked general skills which are not in your required 
 Troubleshooting, Detail-Orientated and Creativity. 
 
 ### Having looked at the Burning Glass data, has your opinion of your ideal job changed? Why or why not?
-Having looked through the Burning Glass data, the opinion on the ideal jobs of the group has not changed, in fact you might say has actually solidified peoples position in what skillsets they need going forward down their respective path and reinforced the need for quality education and experience to gain the kind of skills needed, for example Troubleshooting as a general skill was not listed in the job skillsets however as a reasonable person would know this kind of skill is truly invaluable to have and highly sort after by employers according to the Burning Glass Data and in terms of IT-Specific skills, having good knowledge of a simple product such as Microsoft windows was unexpected to see ranked so highly though a common sense look, as a very highly used program and feature that most human beings on the planet have access to one can make assurances that it is a skill that a person would need to have mastery over to provide a service to others. 
+Having looked through the Burning Glass data, the opinion on the ideal jobs of the group has not changed, in fact you might say has actually solidified peoples position in what skillsets they need going forward down their respective path and reinforced the need for quality education and experience to gain the kind of skills needed, for example Troubleshooting as a general skill was not listed in the job skillsets, however as a reasonable person would know, this kind of skill is truly invaluable to have and highly saught after by employers according to the Burning Glass Data and in terms of IT-Specific skills, having good knowledge of a simple product such as Microsoft windows was unexpected to see ranked so highly though a common sense look, as a very highly used program and feature that most human beings on the planet have access to one can make assurances that it is a skill that a person would need to have mastery over to provide a service to others. 
+
 Updated - 2018 March Burning Glass Data - Labour Insight Jobs (Burning Glass Technologies) Skills in Greatest Demand (Baseline Skills) - Canvas Introduction to Information Technology (2237)
 
 
@@ -291,14 +297,18 @@ How will this affect you?
 Using the idea from Nicholas, the project idea brought forward will be roughly what was outlined previously 
 
 ## Overview – 
-An App that is an aggregate of all the various streaming platforms that you have an active membership on. This App would allow you to search for a piece of media and regardless of what streaming platform it is on, will redirect you including SSO, to that application/media stream with the addition of being able to be used on almost any device and system they come with whether it be for example: apple or android, the application will function for both. The goal here is to be a quality-of-life changer for the multiple users of the application to greatly reduce one’s time and effort of finding a specific piece of media to view, while at the same time give the user multiple options through a recommend page with a list to various streaming platforms of other potential media which are related to the initial query.
+An App that is an aggregate of all the various streaming platforms that you have an active membership on. 
+This App would allow you to search for a piece of media and regardless of what streaming platform it is on, will redirect you including SSO, to that application/media stream with the addition of being able to be used on almost any device and system they come with whether it be for example: apple or android, the application will function for both. 
+The goal here is to be a quality-of-life changer for the multiple users of the application to greatly reduce one’s time and effort of finding a specific piece of media to view, while at the same time give the user multiple options through a recommend page with a list to various streaming platforms of other potential media which are related to the initial query.
 
 ## Motivation –
-The motivation for this project is one out of frustration of having many streaming platforms to chose from at your fingertips but only to find the current one you’re logged into does not contain the piece of media you were looking to view, so you have to log out and log into another platform and if you’re mistaken again you’ll have to repeat it until you have the correct platform, that takes time which this project application will cut down on drastically and offer positive recommendations of other liked media sources to the original one you were seeking.  Also, a key reason to learn new skills by creating the app in the first place is another motivational point and knowing it will be of service to others.
+The motivation for this project is one out of frustration of having many streaming platforms to chose from at your fingertips but only to find the current one you’re logged into does not contain the piece of media you were looking to view, so you have to log out and log into another platform and if you’re mistaken again you’ll have to repeat it until you have the correct platform, that takes time which this project application will cut down on drastically and offer positive recommendations of other liked media sources to the original one you were seeking. 
+Also, a key reason to learn new skills by creating the app in the first place is another motivational point and knowing it will be of service to others.
 
 ## Description –
-The product being developed is an in-depth piece of search system technology which will solve the problem created by a lack of inter-platform recognition by making it so a user can search various media platforms, this product will be focused on finding a certain piece of media from a varied amount of platforms using the example: The television show Stranger Things, which is broadcasted on the streaming platform Netflix, the program will be able to deliver you to the broadcasters domain of the specified media ‘Stranger Things’ on Netflix and open the program for you, without the need to go through different programs to find that specific piece of media. 
-The application will need the following to function correctly and be able to give the most accurate information regarding the searchable data this includes: A database which will be used to store every single piece of media from the various platforms and then use the search function created through programming languages such as Python, to make a directory for the search to acquire the information from the database, which can be put into URL form to give the user a direct link to their destination, in doing so the quality of life of the user is increased to follow up with the different media sources this would then go through a normal networking system by the use of manual input from the user to give them their desired outcome a further example would be just like the Google function of searching a key word and being given links under it, except the main search result will apply to give you the desired media platform and then the additional results will be recommendations of the following key word(s) searched.
+The product being developed is an in-depth piece of search system technology which will solve the problem created by a lack of inter-platform recognition by making it so a user can search various media platforms, this product will be focused on finding a certain piece of media from a varied amount of platforms.
+Using the example: The television show Stranger Things, which is broadcasted on the streaming platform Netflix, the program will be able to deliver you to the broadcasters domain of the specified media ‘Stranger Things’ on Netflix and open the program for you, without the need to go through different programs to find that specific piece of media. 
+The application will need the following to function correctly and be able to give the most accurate information regarding the searchable data, this includes: A database which will be used to store every single piece of media from the various platforms and then use the search function created through programming languages such as Python, to make a directory for the search to acquire the information from the database, which can be put into URL form to give the user a direct link to their destination, in doing so the quality of life of the user is increased to follow up with the different media sources this would then go through a normal networking system by the use of manual input from the user to give them their desired outcome a further example would be just like the Google function of searching a key word and being given links under it, except the main search result will apply to give you the desired media platform and then the additional results will be recommendations of the following key word(s) searched.
 Additional search history features as followed; searching through the database on inputs from users, must be a friendly interface that just takes the user exactly where they need to go with no added clutter, can bring up previous request history stored for the person and even mark media as a favourite.
 Using different devices, the app will have all if not at least the majority of the major in use systems such as android and apple so the program will be able to function on all devices that the users may have.
 The app will also have automatic speech recognition, which is a feature used for those who may have an injury, disability which leaves them unable to use their hands or lack the ability to write therefore they can use their voice to search for the piece of media they need instead. 
@@ -313,7 +323,8 @@ skills required for this project will involve; Have an understand of programming
 Additional skills required after reviewing the burning glass document to bring more light into the skills area of a project in IT would be critical thinking, judgement and decision making, time management skills, troubleshooting, detail-orientated work, SQL, JavaScript, system analysis, programming and systems evaluation. 
 
 ## Outcome – 
-If this project is successful, it will create that quality-of-life users of multiple platforms have been looking for as a search function between all the possible locations to view a specific piece of media and give them useful and relative recommendations to view other sources instead of just a rough throw together of possible things you might like to see. The original issue was having either too many places to look or not an option to look with the lack of search functionality and the project is able to overcome this by giving the user the ability to be able to search between all platforms. The key impact areas this will develop is forward thinking going into the future with other programs to have this kind of feature as a baseline and create easier user access to the interface of programs and applications with the simplicity of a google like search bar. 
+If this project is successful, it will create that quality-of-life users of multiple platforms have been looking for as a search function between all the possible locations to view a specific piece of media and give them useful and relative recommendations to view other sources instead of just a rough throw together of possible things you might like to see. The original issue was having either too many places to look or not an option to look with the lack of search functionality and the project is able to overcome this by giving the user the ability to be able to search between all platforms.
+The key impact areas this will develop is forward thinking going into the future with other programs to have this kind of feature as a baseline and create easier user access to the interface of programs and applications with the simplicity of a google like search bar. 
 
 
 
@@ -356,9 +367,21 @@ https://www.verywellmind.com/what-is-diffusion-of-responsibility-2795095
 
 - hoping someone else will tell us what to do (looks over and nods at Nicholas).
 
-There were a few attempts made to get the ball rolling initially, but at that stage, nobody had taken lead, until Nicholas stepped in "In the Nick of Time" and has saved our group project.
+There were a few attempts made to get the ball rolling initially, but at that stage, nobody had taken lead, until Nicholas stepped in "In the Nick of Time" to save our group project.
 Personally, I havent had electricity or internet or hot water for the last week, while I've been in the process of moving house, due to a miscommunications with the provider. Everything that could have gone wrong there, also went wrong there.  
-Thankfully, Nicholas has taken lead and typed the content, enabling me to upload this to a GitHub page *on the day our assignment is due*. 
+Nicholas has taken lead and typed the content, enabling me to upload this to a GitHub page *on the day our assignment is due*. 
+
+What went well: Having the content all typed ready to go, has enabled me to load this to GitHub.
+
+What could be improved: I think making a group project for a class assignment is a terrible idea really, everyone in the class has completely different schedules and work and home life obligations, and availability to complete our study hours, which I was told when enrolling, were "self-paced", so thinking I could slip behind one or two weeks and catch up in the next weeks, is not applicable or suitable for pending group assignent due dates! To get us all working together smoothly was a good idea in theory, but not one that we were able to readily put in to practise. Not starting early enough, timing issues with inactive group members, left an unfair work load on the remaining members.
+
+One surprising feature: The IT interview went fantastic. Great Work, Team Nicholas!
+
+One thing learned about groups:
+The sheer amount of content that is required of this project would have been difficult to allocate suitably within a group. 
+It would be a better learning experience for us to be focussed more on learning and applying HTML coding, or learning specific aspects of GitHub editors etc,
+or doing individual projects, rather than this assignment being so centered around the large amount of content that was involved with completing the requests of the assignement, and organising Team Meetings effectively, which simply did not happen for us.
+ 
 
 ## Ahmed – 
 
