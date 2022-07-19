@@ -261,36 +261,113 @@ Interview with an IT professional - a Software Architect
 
 # IT Technologies
 
-### Cybersecurity:
-What does it do?
+## Cybersecurity:
+### What does it do?
 
-What is the likely impact?
+### What is the likely impact?
 
-How will this affect you?
-
-
-### Autonomous vehicles:
-What does it do?
-
-What is the likely impact?
-
-How will this affect you?
+### How will this affect you?
 
 
-### Blockchain and cryptocurrencies:
-What does it do?
+## Autonomous vehicles:
+### What does it do?
 
-What is the likely impact?
+### What is the likely impact?
 
-How will this affect you?
+### How will this affect you?
 
 
-### Machine Learning:
-What does it do?
+## Blockchain and cryptocurrencies:
+### What does it do?
 
-What is the likely impact?
+### What is the likely impact?
 
-How will this affect you?
+### How will this affect you?
+
+
+## Machine Learning: 
+
+### What does it do? 
+
+A component of AI and computer science, machine learning uses algorithms to act and learn like a human brain to develop. 
+
+The complexity of machine learning depends on the task at hand and the technique employed to complete it. A machine learning model analyses data to find patterns; it then makes use of these revelations to carry out the task at hand more effectively. Machine learning can automate any task that depends on a set of data points or rules, such as answering customer service calls and reviewing resumes. 
+
+supervised learning, unsupervised learning, semi-supervised learning, and reinforcement learning are the four main machine learning models. 
+
+In supervised learning, a computer is given a set of labelled data so it may learn how to perform a human skill. This approach, which aims to mimic human learning, is the simplest. 
+
+When unsupervised learning is used, the computer uses unlabelled data to discover patterns and insights that were previously undiscovered. Machine learning algorithms accomplish this in a variety of methods, including 
+
+The computer brings together comparable data points to form "clusters" by clustering them. 
+
+Density estimation: By analysing the distribution of a data collection, a computer can learn new things. 
+
+Data point identification that is notably different from the rest of the data is known as anomaly detection and is done by computers. 
+
+In principal component analysis (PCA), a data collection is analysed and summarised by a computer so that precise predictions can be made. 
+
+In semi-supervised learning, the computer is given a collection of partially labelled data and is given the task of understanding the parameters for interpreting the unlabelled data using the labelled data. 
+
+Through observation of its surroundings, the computer employs reinforcement learning to choose the best course of action that will minimise risk and/or maximise reward. This method is iterative and calls for reinforcement signals to aid the computer in choosing the optimum course of action. 
+
+ 
+
+### What is the likely impact? 
+
+Machines can access more data than any person can. AI can identify trends and use the information to arrive at solutions to previous untenable problems. 
+
+Machine learning is used in:  
+
+Financial services- to identify important insights in data and prevent fraud. 
+
+Government- machine learning can also help detect fraud and minimize identity theft. 
+
+Health care- wearable devices and sensors that can use data to assess a patient's health in real time 
+
+Retail- retailers rely on machine learning to capture data, analyse it and use it to personalize a shopping experience, 
+
+Oil and gas- The number of machine learning use cases for this industry is vast – and still expanding. Streamlining oil distribution to make it more efficient and cost-effective.  Analyzing minerals in the ground, finding new energy sources.  
+
+Transportation- Analyzing data to identify patterns and trends is key to the transportation industry, which relies on making routes more efficient and predicting potential problems to increase profitability. 
+
+ 
+
+### How will this affect you? 
+
+“Given the rapid pace of research, I expect AI to be able to create new personalized media, such as music according to your taste. Imagine a future music service that doesn’t just play existing songs you might like, but continually generates new songs just for you.” 
+
+— Jan Kautz, Senior Director of Visual Computing and Machine Learning Research, NVIDIA 
+
+Machine learning will be used and implemented in many ways in our day-to-day lives, and we will see it affect us in ways such as the advancement of technologies in: 
+
+Intelligent gaming 
+
+Self driving cars and automated transportations 
+
+Cyborg technology 
+
+Taking over dangerous jobs 
+
+Environmental protection 
+
+Robots as friends 
+
+Improved elder care 
+
+Enhanced healthcare 
+
+Innovations in banking 
+
+Personalised digital media 
+
+Home security and smart homes 
+
+Streamlined logistics and distributions 
+
+Digital personal assistants 
+
+Providing customised news and market reports 
 
 
 # Project Ideas 
@@ -385,13 +462,17 @@ or doing individual projects, rather than this assignment being so centered arou
 
 ## Ahmed – 
 
-#• What went well 
-Since the group was in shambles and the majority of the group did no work, likely because of other assignments, nothing really went well. I would like to improve our experience on our next group project, and I hope this never happens again because this group was very inactive and we could have accomplished much more and much better if we had only put our minds to it.
-#• What could be improved 
+What went well:
+Since the group was in shambles and the majority of the group did no work, likely because of other assignments, nothing really went well. 
+I would like to improve our experience on our next group project, and I hope this never happens again because this group was very inactive and we could have accomplished much more and much better if we had only put our minds to it.
+
+What could be improved:
 There are many things that could be improved, starting with our communication skills. If our group communicated better, we could move forwards more quickly and effectively; instead, our lack of communication has led to or nearly led to failure for this group. Another thing that could be improved is how we divide the work amongst each of us. This could be done by assigning a group leader, and that group leader could then assign to each member what they would do.
-#• At least one thing that was surprising 
+
+At least one thing that was surprising:
 One thing that struck me was how no one chose to designate a team leader. In my opinion, a team leader is the most important component of a team, thus the fact that this team isn't doing well doesn't surprise me because we failed to do so. Without a leader, everything starts to fall apart.
-#• At least one thing that you have learned about groups
+
+At least one thing that you have learned about groups:
 I know this has been said before, but I have learned that every group needs a leader and that without a leader, a group doesn't actually exist. I have also learned that in order for a group to be effective, everyone needs to pitch in and help out. If we don't cooperate, there may be many uncertainties and conflicts. 
 
  
