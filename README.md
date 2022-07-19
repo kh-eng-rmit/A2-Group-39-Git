@@ -168,6 +168,7 @@ https://github.com/DeepFryGirl/A2-Group-39-Git
   <link rel="https://github.com/DeepFryGirl/A2-Group-39-Git" href="A2-Group-39-Git">
 </head>
 
+<p> <a href="https://github.com/DeepFryGirl/A2-Group-39-Git" target="_blank">Internet Explorers 404 Github Repository</a></p>
 
 <b1></b1>
 
