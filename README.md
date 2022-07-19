@@ -265,12 +265,48 @@ Interview with an IT professional - a Software Architect
 
 # IT Technologies
 
-## Cybersecurity:
-### What does it do?
 
-### What is the likely impact?
+## Cybersecurity: 
 
-### How will this affect you?
+### What does it do? 
+
+Cybersecurity refers to the safeguarding of computer systems and networks against information leakage, theft, or damage to their electronic data, hardware, or software, as well as from service disruption or misdirection. One of the newest cyber security technologies that is gaining popularity is blockchain security. The foundation of how the blockchain technology operates is the identification of the two participants to a transaction. Each participant in a blockchain is in charge of confirming the accuracy of the data added. Blockchains are also our greatest option right now to protect data from a compromise since they build a network that is almost impossible for hackers to breach. Therefore, combining blockchain technology with AI can provide a strong verification system to fend off any cyber-attacks.  
+
+ 
+
+Technology is advancing at an extremely fast pace, especially when it comes to cyber security. With cyber security being one of the most important things when it comes to technology its only reasonable for cyber security to advance with it as well. When it comes to cyber security, cloud computing has been one of its strong points when it comes to advancement. Cloud computing has been advancing at an alarming rate as it is cheap, fast and easy to use. Cloud computing is used to safeguard cloud data, applications, and infrastructure from cyberthreats and attacks, a variety of technologies, services, policies, and best practises are gathered under the umbrella of cloud security. To avoid data loss and aid the company in remaining in compliance with data privacy laws, robust cloud cyber security is crucial. 
+
+With the increasing demand for cyber security and the lack of cyber security workers, organizations have come up with the idea of using A.I and machine learning as a way to compensate for the lack of workers. Cybersecurity businesses may now perform ongoing data analytics on monitored data using artificial intelligence and machine learning, which allows them to spot security problems much more quickly and effectively. They have the ability to spot sneaky patterns of harmful behaviour that a human wouldn't see. Similar to this, security automation may continuously find new software flaws, configuration mistakes, and other issues, and ensure that each one is immediately fixed. 
+
+ 
+
+ 
+
+ 
+
+### What is the likely impact? 
+
+Cybersecurity is crucial since it guards against theft and destruction to many types of data. Information systems used by the government and business sectors as well as sensitive data, private information, protected health data, and personal data are all included. A company cannot protect itself from data breach operations without a cybersecurity programme, making it an unavoidable target for cybercriminals. 
+
+ 
+
+The development of cyber security, particularly when it comes to cloud computing, will have a significant impact on how organisations operate and how much money they will need to invest to combat cyberattacks and cybercrimes. Businesses may now rely on cloud computing thanks to recent improvements in the technology for cyber security and storing all of their data in the cloud. 
+
+The development of AI and machine learning is another significant development that will probably have an impact on cyber security and how it operates. AI and machine learning will have a significant impact because they can swiftly analyse software and check for cyberattacks, saving businesses a lot of money and changing society in such a way that cyberattacks will one day no longer be a concern. 
+
+ 
+
+### How will this affect you? 
+
+ 
+
+The way this will affect me is that I will feel more secure while using the Internet and online applications, which will reduce the risk of being attacked by any malicious malware or cyberattacks. However, this new development in cyber security will have an impact on many people, including my family and friends. This cutting-edge cyber security system Well, if it's not just me, my friends, and family, but everyone, since it's one of the most essential aspects of browsing the web or using an application these days, the development of cyber security is essential as cyberattacks get more frequent day by day. 
+
+With these new advancements, forgetting about cyber-attacks may become a thing of the past. How this might affect my family and others is how it could help people, especially the elderly who are vulnerable to cyber-attacks, by assisting them in avoiding it. The development of cyber security will not only help me but also others in many ways. 
+
+ 
+
+ 
 
 
 
