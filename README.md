@@ -261,36 +261,89 @@ Interview with an IT professional - a Software Architect
 
 # IT Technologies
 
-### Cybersecurity:
-What does it do?
-
-What is the likely impact?
-
-How will this affect you?
 
 
-### Autonomous vehicles:
-What does it do?
+## Cybersecurity: 
 
-What is the likely impact?
+### What does it do? 
 
-How will this affect you?
+Cybersecurity refers to the safeguarding of computer systems and networks against information leakage, theft, or damage to their electronic data, hardware, or software, as well as from service disruption or misdirection.  
 
+ 
 
-### Blockchain and cryptocurrencies:
-What does it do?
+### What is the likely impact? 
 
-What is the likely impact?
+With the increasing demand for cyber security and the lack of cyber security workers, organizations have come up with the idea of using A.I and machine learning as a way to compensate for the lack of workers.  
 
-How will this affect you?
+To avoid data loss and aid the company in remaining in compliance with data privacy laws, robust cyber security is crucial. 
 
+ 
 
-### Machine Learning:
-What does it do?
+### How will this affect you? 
 
-What is the likely impact?
+Technology is advancing at an extremely fast pace, especially when it comes to cyber security. When it comes to cyber security, cloud computing has been one of its strong points when it comes to advancement. Cloud computing has been advancing at an alarming rate as it is cheap, fast, and easy to use. Cloud computing is used to safeguard cloud data, applications, and infrastructure from cyberthreats and attacks, a variety of technologies, services, policies, and best practises are gathered under the umbrella of cloud security. 
 
-How will this affect you?
+ 
+
+ 
+
+## Autonomous vehicles: 
+
+### What does it do? 
+
+An autonomous vehicle is a driverless vehicle using AI technology, and machine learning to adapt to new situations and learn from them on the road, which is able to operate itself and perform necessary functions without any human intervention, through the ability to sense its surroundings. 
+
+### What is the likely impact? 
+
+Autonomous vehicle technology may be able to provide certain advantages compared to human-driven vehicles, like providing increased safety on the road. Automated vehicles could potentially decrease the number of accidents, making fewer errors in comparison to humans. Autonomous vehicles may also reduce traffic congestion, by removing human behaviours that cause blockages on the road. 
+
+### How will this affect you? 
+
+Another possible advantage of Autonomous vehicles is that people who are not able to drive due to factors like age or disabilities could be able to use automated cars, it would also eliminate driving fatigue and enable users to sleep during overnight journeys. 
+
+ 
+
+ 
+
+## Blockchain and cryptocurrencies: 
+
+### What does it do? 
+
+Blockchains are the underlying technology that serves as the fundamental infrastructure for cryptocurrencies to operate on, while cryptocurrencies are the representation of value that can be transferred from one party to another. 
+
+Blockchains are also our greatest option right now to protect data from a compromise since they build a network that is almost impossible for hackers to breach. Therefore, combining blockchain technology with AI can provide a strong verification system to fend off any cyber-attacks. 
+
+ 
+
+### What is the likely impact? 
+
+Its main goal is to create a decentralized environment with no third-party control over transactions and data 
+
+### How will this affect you? 
+
+Blockchain Technology has created new opportunities for doing business around the world. From reducing friction by cutting regulatory red tape, to decreasing costs by eliminating middlemen, blockchains have allowed us to create more fraud-resistant systems for conducting business.   
+
+ 
+
+ 
+
+## Machine Learning: 
+
+### What does it do? 
+
+Self-learning machines! Machine learning is an aspect of AI and computer science, using algorithms to behave and learn like a human brain, to improve itself. 
+
+### What is the likely impact? 
+
+Machines can access more data than any person can. AI can identify trends and use the information to arrive at solutions to previous untenable problems. 
+
+### How will this affect you? 
+
+“Given the rapid pace of research, I expect AI to be able to create new personalized media, such as music according to your taste. Imagine a future music service that doesn’t just play existing songs you might like, but continually generates new songs just for you.” 
+
+— Jan Kautz, Senior Director of Visual Computing and Machine Learning Research, NVIDIA 
+
+ 
 
 
 # Project Ideas 
