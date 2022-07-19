@@ -164,6 +164,10 @@ A2-Group-39-Git (deepfrygirl.github.io)
 
 https://github.com/DeepFryGirl/A2-Group-39-Git
 
+<head>
+  <link rel="https://github.com/DeepFryGirl/A2-Group-39-Git" href="A2-Group-39-Git">
+</head>
+
 
 <b1></b1>
 
@@ -269,12 +273,38 @@ Interview with an IT professional - a Software Architect
 ### How will this affect you?
 
 
-## Autonomous vehicles:
-### What does it do?
 
-### What is the likely impact?
+## Autonomous vehicles: 
 
-### How will this affect you?
+### What does it do? 
+
+An autonomous vehicle is a driverless vehicle using AI technology, and machine learning to adapt to new situations and learn from them on the road, which is able to operate through the ability to see its surroundings, an object can take care of important tasks by itself without the assistance of anyone else. 
+
+ 
+
+### What is the likely impact? 
+
+Autonomous vehicle technology may be able to provide certain advantages compared to human-driven vehicles, like providing increased safety on the road. Automated vehicles could potentially decrease the number of accidents by making fewer errors in comparison to human drivers. Autonomous vehicles may also reduce traffic congestion, by removing human behaviours that cause blockages on the road, such as road rage and people causing accidents by unsafe driving. 
+
+ 
+If freight transport becomes automated, it is likely that it should take place at night, which would wind up relieving the burden on roads during the day, also truck drivers may not be needed at all anymore in the future with automated cars, and so the costs of freight and passenger transport should also decrease as a result. 
+
+ 
+Automated cars will benefit us in many ways. Since self-driving cars react faster than a human, the maximum speed can go faster than humans should drive.  
+
+Also since many people own a car but it sits not being used for most of the time, there would be opportunities for car rental companies to offer a cars-on-demand that comes to the front when the driver needs it and if everyone used this then we would not need to own cars and would always have access to one when we needed it.  
+
+People who cannot drive themselves, because they are too young, too old or blind, will become much more mobile and less dependent on assistance from others because they cannot drive a car themselves, if they had automated cars to do the driving for them then this would enable disadvantaged people to have convenient and reliable access to transportation. 
+
+ 
+
+### How will this affect you? 
+
+Another advantage of Autonomous vehicles is that people who are not able to drive due to the factors mentioned earlier such as old or young age or disabilities such as being blind, for those people to be able to use automated cars, it would help these disadvantaged people become much more mobile and less dependent on assistance from others. It would also eliminate driving fatigue and enable users to sleep during overnight journeys. 
+
+It can revolutionise safety on roads and accessibility to places. Self-driving cars would have the same impact on the auto industry that the smartphone had on telecommunication: massive and unpredictable, also creating a ripple effect from everything from petrol prices, fewer emissions, parking spaces, state revenues, jobs, health and accidents insurances costs. 
+
+
 
 
 ## Blockchain and cryptocurrencies:
