@@ -74,7 +74,11 @@ Team Profile test outcomes:
 
 Myers Briggs and What kind of learning type tests all taken by group members results below 
 
- ![Picture1](https://user-images.githubusercontent.com/107126263/179645085-9adf9241-1f12-431d-bcbe-b2619f9f9a36.png)
+![Picture1](https://user-images.githubusercontent.com/107126263/179645085-9adf9241-1f12-431d-bcbe-b2619f9f9a36.png)
+
+<img src="![Picture1](https://user-images.githubusercontent.com/107126263/179645085-9adf9241-1f12-431d-bcbe-b2619f9f9a36.png)" alt="Myers Briggs" style="width:800px;height:500px;">
+
+
 
 
 # Using the results from the Myers Briggs test  
