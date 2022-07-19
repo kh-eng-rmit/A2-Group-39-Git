@@ -4,7 +4,18 @@
 
 ## This is a Group Project, brought to you by our team members.
 
-## Our Personal Information: 
+
+<b1>
+
+
+</b1>
+
+<section>
+
+<line>
+
+
+# Our Personal Information: 
 
 
 
@@ -155,11 +166,14 @@ Microsoft teams is used as a general communication programme between users of th
 
 
 
- Link to github repository : A2-Group-39-Git (deepfrygirl.github.io)
+# Link to github repository :
+A2-Group-39-Git (deepfrygirl.github.io)
 
+https://github.com/DeepFryGirl/A2-Group-39-Git
 
 
 <b1></b1>
+<section>
 
  
 # Ideal Jobs for the team members are as follows: 
@@ -186,19 +200,22 @@ A financial advisor in compatibility to these aforementioned jobs would only use
  
 # Industry Data
 ## What are the Job Titles for your group's ideal jobs?
-### Amy - ideal job title – Conversational AI consultant, Professional Services, Google Cloud
-### Ahmed - ideal job title – Software Engineer
-### Kaihang ideal job title – Software Programmer 
-### Nicholas ideal job title – Senior Financial Adviser 
+#### Amy - ideal job title – Conversational AI consultant, Professional Services, Google Cloud
+#### Ahmed - ideal job title – Software Engineer
+#### Kaihang ideal job title – Software Programmer 
+#### Nicholas ideal job title – Senior Financial Adviser 
 
 ## How do each of these rank in terms of demand from employers?
 
 ### Nicholas - Financial Adviser -
-Employers see a growth of 16.4% in the last year of jobs within the financial industry sector or 2.8% in the last quarter ‘https://labourmarketinsights.gov.au/industries/industry-details?industryCode=K’ in terms of specific demand for this job ‘The NSC produces employment projections to show where likely future job opportunities may be. The latest data are for the five years from November 2021 to November 2026. Over this period, the number of workers: is expected to grow strongly and is likely to reach 68,800 by 2026. (Source: National Skills Commission Employment Projections to 2026.) https://labourmarketinsights.gov.au/our-research/employment-projections/
+Employers see a growth of 16.4% in the last year of jobs within the financial industry sector or 2.8% in the last quarter ‘https://labourmarketinsights.gov.au/industries/industry-details?industryCode=K’ 
+in terms of specific demand for this job ‘The NSC produces employment projections to show where likely future job opportunities may be. The latest data are for the five years from November 2021 to November 2026. 
+Over this period, the number of workers: is expected to grow strongly and is likely to reach 68,800 by 2026. (Source: National Skills Commission Employment Projections to 2026.) https://labourmarketinsights.gov.au/our-research/employment-projections/
 The job generally gravitates to these two main industries, Financial and Insurance services, or Professional, scientific, and technical services.
 
 ### Kaihang - Software Programmer –
-Employers see ap projected change of an increase of 27% which is approximately 42,200 jobs within this specific space for software programmers ‘The NSC produces employment projections to show where likely future job opportunities may be. The latest data are for the five years from November 2021 to November 2026. Over this period, the number of workers: is expected to grow very strongly and is likely to reach 198,400 by 2026. Source: National Skills Commission Employment Projections to 2026. ‘https://labourmarketinsights.gov.au/occupation-profile/software-and-applications-programmers?occupationCode=2613’ 
+Employers see ap projected change of an increase of 27% which is approximately 42,200 jobs within this specific space for software programmers 
+‘The NSC produces employment projections to show where likely future job opportunities may be. The latest data are for the five years from November 2021 to November 2026. Over this period, the number of workers: is expected to grow very strongly and is likely to reach 198,400 by 2026. Source: National Skills Commission Employment Projections to 2026. ‘https://labourmarketinsights.gov.au/occupation-profile/software-and-applications-programmers?occupationCode=2613’ 
 The job generally gravitates to these two main industries, Professional, scientific, and technical services, or financial and insurance services 
 
 ### Ahmed – Software engineer –
@@ -216,12 +233,12 @@ From your group's ideal jobs, you can identify a set of skills required for thes
 ## IT-Specific Skills
 Python, COBOL, SQL, Javascript, C++, database, SAS (statistical analysis system), systems analysis, programming, systems evaluation, operations analysis, technology design.
 
-# How do the IT-specific skills in your required skill set rank in terms of demand from employers?
+## How do the IT-specific skills in your required skill set rank in terms of demand from employers?
 IT-specific skillset ranking – SQL, JavaScript, System analysis, programming, Python, systems evaluation, operations analysis, C++, SAS, COBOL.
 How do the general skills in your required skill set rank in terms of demand from employers? 
 General skill ranking – Speaking, Active listening, writing, coordination with others, instructing, critical thinking, monitoring, judgement and decision making, complex problem solving, time management, serving others, management of personal resources, management of finite resources, social perceptiveness, reading comprehension.
 
-### What are the three highest ranked IT-specific skills which are not in your required skill set? 
+## What are the three highest ranked IT-specific skills which are not in your required skill set? 
 Three highest ranked IT-specific skill which were not listed in our skill sets are: Microsoft windows, project management and SAP 
 What are the three highest ranked general skills which are not in your required skill set?
 
@@ -329,13 +346,18 @@ GitHub as a reflection of the group’s activity shows typesetting done by Amy o
 ## Amy –  
 What could possibly go wrong with a group project?
 We have affirmed Murphys Law: Anything that could go wrong, will go wrong. 
+
 https://en.wikipedia.org/wiki/Murphy's_law
+
 We all have conflicting availablity, work hours, schedules, and are subject to the common psychology of :"diffusion of responsiblity"
+
 https://www.verywellmind.com/what-is-diffusion-of-responsibility-2795095
+
 - hoping someone else will tell us what to do (looks over and nods at Nicholas).
+
 There were a few attempts made to get the ball rolling initially, but at that stage, nobody had taken lead, until Nicholas stepped in "In the Nick of Time" and has saved our group project.
-Personally, I havent had electricity or internet or hot water for the last week, while I've been in the process of moving house due to a miscommunications with the provider. Everything that could have gone wrong there, also went wrong there.  
- 
+Personally, I havent had electricity or internet or hot water for the last week, while I've been in the process of moving house, due to a miscommunications with the provider. Everything that could have gone wrong there, also went wrong there.  
+Thankfully, Nicholas has taken lead and typed the content, enabling me to upload this to a GitHub page *on the day our assignment is due*. 
 
 ## Ahmed – 
 
