@@ -342,14 +342,34 @@ Another advantage of Autonomous vehicles is that people who are not able to driv
 It can revolutionise safety on roads and accessibility to places. Self-driving cars would have the same impact on the auto industry that the smartphone had on telecommunication: massive and unpredictable, also creating a ripple effect from everything from petrol prices, fewer emissions, parking spaces, state revenues, jobs, health and accidents insurances costs. 
 
 
+## Blockchain and cryptocurrencies: 
 
+### What does it do? 
 
-## Blockchain and cryptocurrencies:
-### What does it do?
+Blockchains are the underlying technology that serves as the fundamental infrastructure for cryptocurrencies to operate on, while cryptocurrencies are the representation of value that can be transferred from one party to another. 
 
-### What is the likely impact?
+Blockchains are also our greatest option right now to protect data from a compromise since they build a network that is almost impossible for hackers to breach. Therefore, combining blockchain technology with AI can provide a strong verification system to fend off any cyber-attacks. 
 
-### How will this affect you?
+One of the most significant developments in the blockchain ecosystem in 2021 was non-fungible tokens, or NFTs. For obvious reasons, non-fungible tokens are among the most important aspects of the blockchain's future. The idea of distinctive digital currencies on blockchains was first presented to the world through NFT art that fetched enormous prices in auctions. 
+
+The widespread adoption of this blockchain technology will depend greatly on the next five years. Blockchain technology is expected to change the way society and the economy function on a daily basis as the world begins to recover from the pandemic and as ongoing technical advancements continue to expand opportunities for individuals throughout the world. There are a few applications that stand out as leading shifters that will change the world over the next five years, despite the fact that the blockchain business is a rapidly expanding and wide expanse of new technology.  
+
+Blockchain technology is being used in decentralised finance, which is expected to grow significantly over the next five years. Decentralised finance is a type of finance that offers conventional financial instruments using smart contracts on blockchains without the use of central financial intermediaries, such as banks. 
+
+### What is the likely impact? 
+
+Its main goal is to create a decentralized environment with no third-party control over transactions and data. Long-term, blockchain might make it possible for operational paradigms across industries to change. Blockchain has the ability to fundamentally alter how we exchange value, transfer ownership, and verify transactions, much like the internet revolutionised how we communicate information. 
+
+Blockchain technology may make automated communication faster, safer, and more dependable. In some businesses, automated or digital communication based on pre-built algorithms is already being used extensively. With the introduction of blockchain, hospitals and other healthcare organisations could establish a centralised, secure database, preserve medical records, and only share them with patients and clinicians who had been given permission to do so. 
+
+Blockchain and cryptocurrencies are likely to change how we interact with and use money in the future. Given their current level of popularity, it only makes sense that they will eventually replace paper money as our primary form of payment. Digitalizing money may also make it easier for governments to control inflation and other illegal activities like money laundering and tax evasion/fraud.  
+
+### How will this affect you? 
+
+Blockchain Technology has created new opportunities for doing business around the world. Blockchains have made it possible to design more fraud-resistant corporate systems, which has reduced friction by lowering regulatory red tape and reduced costs by removing middlemen. Blockchain is a sophisticated database. Tamper-proof systems can reduce fraud. Records can get lost and sometimes one computer system will not talk to another. Having a system that ensures no record could disappear will improve healthcare systems, streamline everything in our financial lives, and ensure fair trade is operating, as it can track everything from production to trader, everything from coffee beans to diamonds, there would be no more lost records or mysteries regarding wills or inheritances, if everything is put into blockchain, it should have a big impact on our lives in the coming years, and consumers can be confident in their products that they are conflict-free, and not made by slave labour trades. Blockchain will be a lifesaver to any industry drowning in paperwork and especially those with confidentiality obligations.  
+
+ 
+
 
 
 ## Machine Learning: 
