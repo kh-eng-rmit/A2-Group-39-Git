@@ -121,14 +121,15 @@ selected a creativity test they scored a 50.91
 
  
 
-## Nicholas selected another personality trait test Graphical user interface, text, application
-
+## Nicholas 
+selected another personality trait test 
 
 
  ![Picture6](https://user-images.githubusercontent.com/107126263/179645565-87703846-3947-413b-b213-6b5c5019c84e.png)
 
 
-
+<b1></b1>
+ 
 # Ideal Jobs for the team members are as follows: 
 
 ### Amy 
