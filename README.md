@@ -1,6 +1,6 @@
 # A2-Group-39-Git
  
-Team name: *Internet Explorers* 
+Team name: *Internet Explorers 404* 
 
  
 
@@ -8,15 +8,13 @@ Team name: *Internet Explorers*
 
 ## Amy Lovett 
 
-Goes by the alias DeepFryGirl, 
+Goes by the alias DeepFryGirl on GitHub 
 
 Interested in the field of Artificial intelligence 
 
 Currently studying a Bachelor of Information Technology, at RMIT 
 
 Student number s3559100 
-
- 
 
 IT experience is narrowed down to a wide view on development, application and how these aforementioned systems can work in daily life to broaden a new range of skills and knowledge to work towards a new career. Amy currently has a job in a support-type role as a customer service officer, taking inbound calls.  
 
@@ -36,8 +34,6 @@ Student number: s3964410
 
 Background: Malaysian Chinese 
 
- 
-
 IT Experience includes a plethora of different skill sets and abilities such as: managing their own virtual server that they’ve rented from a hosting service, hosting their own websites, configuring DNS with an UI, coding several automation scripts and chatbots with Python, writing their own static websites with HTM and CSS, build their own PC, flashing new operating systems into their smartphones, managing household networking and several more. Their dedication to continual learning and reinforcement to learning the basics is a key factor in their learning path throughout life. 
 
  
@@ -51,8 +47,6 @@ Interested in the field of software engineering
 Student number: s3967496 
 
 Background: Born and raised in Saudi Arabia, but from Palestine, then moved to New Zealand and currently reside in Australia with the ability to speak Arabic and English. 
-
- 
 
 IT experience includes learning to program from a young age using the language Scratch, primary focus on coding and creating programmes from the ground up. Proceeded to learn later in life a wide array of programming languages during computer science courses such as; Python, HTML, CSS, Java and SWL databases. Also use to using a 3D Printer to create a robotic body.  
 
@@ -70,7 +64,7 @@ IT Experience: A small amount of IT experience from a young age during primary s
 
  
 
-Team Profile test outcomes:  
+# Team Profile test outcomes:  
 
 Myers Briggs and What kind of learning type tests all taken by group members results below 
 
@@ -105,16 +99,13 @@ Nicholas is an ESTJ-A certifying as an Executive for being a Sentinel and having
 ## Amy
 selected Generic Conspiracists Beliefs Test In which she scored a 5/5 
 
-Graphical user interface, text
 
 ![Picture3](https://user-images.githubusercontent.com/107126263/179645770-c9b3435e-2f65-4118-a2f2-11a5db305936.png)
 
-Description automatically generated 
+
 
 ## Ahmed 
-selected a creativity test and they measure by score value his result was a 54Graphical user interface, website
-
-Description automatically generated 
+selected a creativity test and they measure by score value his result was a 54
 
  
 ![Picture4](https://user-images.githubusercontent.com/107126263/179645742-b5d40f94-b01d-471d-80b0-04b51b81a358.png)
@@ -123,9 +114,7 @@ Description automatically generated
  
 
 ## Kaihang 
-selected a creativity test they scored a 50.91Chart, radar chart
-
-Description automatically generated 
+selected a creativity test they scored a 50.91
 
 
 ![Picture5](https://user-images.githubusercontent.com/107126263/179645630-52ac3d59-8e63-4a49-a296-cb3e74beac95.png)
@@ -134,13 +123,13 @@ Description automatically generated
 
 ## Nicholas selected another personality trait test Graphical user interface, text, application
 
-Description automatically generated 
+
 
  ![Picture6](https://user-images.githubusercontent.com/107126263/179645565-87703846-3947-413b-b213-6b5c5019c84e.png)
 
 
 
-# Ideal Jobs for the team members are as followed: 
+# Ideal Jobs for the team members are as follows: 
 
 ### Amy 
 - AI specialisation  
@@ -158,7 +147,7 @@ Leaving aside Nicholas’ Financial Adviser job selection, the ideal jobs from A
 
 AI engineer would focus on the creation of their AI system from start to end using various engineering and programming features at their behest.  
 
-A financial advisor in compatibility to these aforementioned jobs would only use their already given software programmes to help create advise for their clients. 
+A financial advisor in compatibility to these aforementioned jobs would only use their already given software programmes to help create advice for their clients. 
 
  
 
@@ -172,13 +161,13 @@ Microsoft teams is used as a general communication programme between users of th
 
 # Links to websites from team members:  
 
-<p>Amy: <a href="https://deepfrygirl.github.io/" target="_blank">Amy's Github Page</a></p>
+<p> <a href="https://deepfrygirl.github.io/" target="_blank">Amy's Github Page</a></p>
 
-<p>Ahmed: <a href="https://ahmkhalaf.github.io/Assignment-1/" target="_blank">Ahmed's Github Page</a></p>
+<p> <a href="https://ahmkhalaf.github.io/Assignment-1/" target="_blank">Ahmed's Github Page</a></p>
 
-<p>Kaihang: <a href="https://kh-eng-rmit.github.io/" target="_blank">Kaiheng's Github Page</a></p>
+<p> <a href="https://kh-eng-rmit.github.io/" target="_blank">Kaiheng's Github Page</a></p>
 
-<p>Nicholas: <a href="https://ramsey1234567.github.io/COSC2196-Introduction-to-Information-Technology/PDF/ProjectPDF.pdf" target="_blank">Nicholas's Github Page</a></p>
+<p> <a href="https://ramsey1234567.github.io/COSC2196-Introduction-to-Information-Technology/PDF/ProjectPDF.pdf" target="_blank">Nicholas's Github Page</a></p>
 
 
 
