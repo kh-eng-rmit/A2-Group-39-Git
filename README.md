@@ -221,7 +221,8 @@ The job generally gravitates to these two main industries, Professional, scienti
 ### Ahmed – Software engineer –
 Data for employment outlook for this specific job is located within the software programmer section indicating growth within this field as it is a branch off of the software programmer career path to a more development orientated position one can draw that if software programmer jobs are on the ascending scale that software engineering jobs are also on an uptrend.
 
-### Amy – AI – As with software engineer, working in AI can also contain more of a focus on data analysis but still stems from software programming however as an even more specialised field it is reasonable to assume that the jobs within this field while limited in scope the jobs within this market will still be on an upward trend due to the amount of software programming jobs are increasing.
+### Amy – AI –
+ As with software engineer, working in AI can also contain more of a focus on data analysis but still stems from software programming however as an even more specialised field it is reasonable to assume that the jobs within this field while limited in scope the jobs within this market will still be on an upward trend due to the amount of software programming jobs are increasing.
 Ranking these ideal jobs in terms of demand from employers sees Kaihang’s Software Programmer at the most in demand, Nicholas’ Financial adviser role at second most, whereas Amy and Ahmed in a more specialised version of software programmer with unspecified amounts of job positions and data at a Ahmed third and Amy fourth. 
 
 
