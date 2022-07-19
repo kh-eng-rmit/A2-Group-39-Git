@@ -5,17 +5,14 @@
 ## This is a Group Project, brought to you by our team members.
 
 
-<b1>
 
-
-</b1>
 
 
 # Our Personal Information: 
 
 
 
-## Amy Lovett 
+### Amy Lovett 
 
 Goes by the alias DeepFryGirl on GitHub 
 
@@ -33,7 +30,7 @@ IT experience is narrowed down to a wide view on development, application and ho
 
  
 
-## Kaihang Eng 
+### Kaihang Eng 
 
 Interests in the wider field of IT, emcompossing, PCs, smartphones and a wide array of applications. 
 
@@ -49,7 +46,7 @@ IT Experience includes a plethora of different skill sets and abilities such as:
 
  
 
-## Ahmed Khalaf 
+### Ahmed Khalaf 
 
 Interested in the field of software engineering 
 
@@ -64,7 +61,7 @@ IT experience includes learning to program from a young age using the language S
 
 
 
-## Nicholas Kyriakakis 
+### Nicholas Kyriakakis 
 
 Interested in Finance and in relation to how IT can be efficient in smoothing those systems 
 
