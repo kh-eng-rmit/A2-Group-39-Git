@@ -567,17 +567,21 @@ I know this has been said before, but I have learned that every group needs a le
 ## Kaihang –  
 
 Q: **What went well**
+
 A: I will be honest, the group is completely dysfunctional, because nobody took the lead until Nicholas stepped up late int the process. Nicholas is the only one that's doing the majority of the work until Ahmed and Amy joined in in the eleventh hour, because of personal issues with life as well as schedule schedule conflicts, and did the rest. I barely managed to get myself enrolled into the university accessibility support and get my own personal extension and, by the time I finally managed to both catch up to the syllabus and feeling mentally well enough to start on this assignment, pretty much all the document and research work has been done.
 
 So no, nothing went well at all.
 
 Q: **What could be improved**
+
 A: There should have been a lot more communication going on in the early stages. I doubt we wouldn't have been in this mess if we had that but without it, we straight up have no leader, which means there's no one to assign any responsibilities to, leading to a lot of overlaps, then it spirals down from here.
 
 I'll have to agree with Amy here, this admittedly-quite-forced group assignment was a *terrible* idea to begin with with how soon the deadline is, especially when you consider that most of the members in this group had to deal with life and their own schedules. The deadline should have been at least 2 weeks later, not one. We all end up getting rushed upon by it.
 
 Q: **At least one thing that was surprising**
+
 A: The very bare amount of communications and coordination right up until the last minute possible, and I can't assign any faults to anyone in this team considering everyone's circumstances.
 
 Q: **At least one thing you've learned about groups**
+
 A: I'm basically repeating myself here, but somebody has to take the lead, and there needs to be a *lot* of open communications and coordinations as well, in order for a group to be effective in the first place. Without it, everything just falls apart.
