@@ -1,10 +1,12 @@
-# A2-Group-39-Git
+# A2-Group-39
+# Hello World
+## Welcome to our teams GitHub Page!
  
-Team name: *Internet Explorers 404* 
+# Team name: *Internet Explorers 404* 
 
- 
+## This is a Group Project, brought to you by our team members.
 
-# Personal Information: 
+## Our Personal Information: 
 
 ## Amy Lovett 
 
@@ -64,13 +66,13 @@ IT Experience: A small amount of IT experience from a young age during primary s
 
  
 
-# Team Profile test outcomes:  
+# Team Personality Profile Tests:  
 
 Myers Briggs and What kind of learning type tests all taken by group members results below 
 
 ![Picture1](https://user-images.githubusercontent.com/107126263/179645085-9adf9241-1f12-431d-bcbe-b2619f9f9a36.png)
 
-<img src="![Picture1](https://user-images.githubusercontent.com/107126263/179645085-9adf9241-1f12-431d-bcbe-b2619f9f9a36.png)" alt="Myers Briggs" style="width:800px;height:500px;">
+<img src="![Picture1](https://user-images.githubusercontent.com/107126263/179645085-9adf9241-1f12-431d-bcbe-b2619f9f9a36.png)" alt="Myers Briggs" style="width:900px;height:500px;">
 
 
 
@@ -92,7 +94,7 @@ Nicholas is an ESTJ-A certifying as an Executive for being a Sentinel and having
 
  
 
-# Third test was different for each team member  
+# Individual tests selected by each team member  
 
 
 
@@ -142,7 +144,7 @@ selected another personality trait test
 * Software Programmer  
 
 ### Nicholas 
-* Financial Adviser  
+* Financial Advisor  
 
 Leaving aside Nicholas’ Financial Adviser job selection, the ideal jobs from Amy, Ahmed and Kaihang all involve great usage of computer languages to create varying different outcomes focusing on certain fields, however being more specific between a programmer and an engineer is more title based with a focus on programmer generally solving solutions with pre-existing tools/frameworks where as an engineer leans more towards developing those tools/frameworks and software programmes focus on a single stage of the development cycle whereas the engineer see it from start to end.  
 
@@ -154,7 +156,7 @@ A financial advisor in compatibility to these aforementioned jobs would only use
 
  
 
-# Tools used  
+# Tools used:
 
 Github a program used to consolidate the teams work onto an online repository system to where it can use its primary function of being a code hosting platform to where the team members can interact within the repository to control and collaborate on the project together leading to the creation of a website.  
 
