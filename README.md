@@ -235,7 +235,7 @@ Python, COBOL, SQL, Javascript, C++, database, SAS (statistical analysis system)
 ## How do the IT-specific skills in your required skill set rank in terms of demand from employers?
 IT-specific skillset ranking – SQL, JavaScript, System analysis, programming, Python, systems evaluation, operations analysis, C++, SAS, COBOL.
 
-##How do the general skills in your required skill set rank in terms of demand from employers? 
+## How do the general skills in your required skill set rank in terms of demand from employers? 
 
 ### General skill ranking 
 – Speaking, Active listening, writing, coordination with others, instructing, critical thinking, monitoring, judgement and decision making, complex problem solving, time management, serving others, management of personal resources, management of finite resources, social perceptiveness, reading comprehension.
