@@ -132,16 +132,16 @@ selected a creativity test they scored a 50.91
 # Ideal Jobs for the team members are as follows: 
 
 ### Amy 
-- AI specialisation  
+* AI specialisation  
 
 ### Ahmed 
-– Software Engineer 
+* Software Engineer 
 
 ### Kaihang 
-– Software Programmer  
+* Software Programmer  
 
 ### Nicholas 
-– Financial Adviser  
+* Financial Adviser  
 
 Leaving aside Nicholas’ Financial Adviser job selection, the ideal jobs from Amy, Ahmed and Kaihang all involve great usage of computer languages to create varying different outcomes focusing on certain fields, however being more specific between a programmer and an engineer is more title based with a focus on programmer generally solving solutions with pre-existing tools/frameworks where as an engineer leans more towards developing those tools/frameworks and software programmes focus on a single stage of the development cycle whereas the engineer see it from start to end.  
 
