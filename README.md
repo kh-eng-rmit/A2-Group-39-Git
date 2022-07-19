@@ -299,6 +299,7 @@ Microsoft teams is used as a general communication programme between users of th
 
  Link to github repository : A2-Group-39-Git (deepfrygirl.github.io)
  
+https://github.com/DeepFryGirl/A2-Group-39-Git
 
 Comments on how well the audit trail on git repository reflects the group’s work. 
 
