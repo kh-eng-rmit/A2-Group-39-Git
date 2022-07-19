@@ -1,6 +1,6 @@
 # A2-Group-39-Git
  
-Team name: *A2-Group-39* 
+Team name: *Internet Explorers* 
 
  
 
@@ -20,7 +20,7 @@ Student number s3559100
 
 IT experience is narrowed down to a wide view on development, application and how these aforementioned systems can work in daily life to broaden a new range of skills and knowledge to work towards a new career. Amy currently has a job in a support-type role as a customer service officer, taking inbound calls.  
 
-Link to website page: https://deepfrygirl.github.io/ 
+
 
  
 
@@ -168,14 +168,17 @@ Microsoft teams is used as a general communication programme between users of th
 
 # Links to websites from team members:  
 
-Amy - https://deepfrygirl.github.io/ 
+<p>Amy: <a href="https://deepfrygirl.github.io/" target="_blank">Amy's Github Page</a></p>
 
-Ahmed - https://ahmkhalaf.github.io/Assignment-1/ 
+<p>Ahmed: <a href="https://ahmkhalaf.github.io/Assignment-1/" target="_blank">Ahmed's Github Page</a></p>
 
-Kaihang - https://kh-eng-rmit.github.io/ 
+<p>Kaihang: <a href="https://kh-eng-rmit.github.io/" target="_blank">Kaiheng's Github Page</a></p>
 
-Nicholas - https://ramsey1234567.github.io/COSC2196-Introduction-to-Information-Technology/PDF/ProjectPDF.pdf 
+<p>Nicholas: <a href="https://ramsey1234567.github.io/COSC2196-Introduction-to-Information-Technology/PDF/ProjectPDF.pdf" target="_blank">Nicholas's Github Page</a></p>
 
- Link to github repository : *insert when established*  
+
+
+ Link to github repository : A2-Group-39-Git (deepfrygirl.github.io)
+ 
 
 Comments on how well the audit trail on git repository reflects the group’s work. 
