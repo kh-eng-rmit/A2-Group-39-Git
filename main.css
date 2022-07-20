@@ -1,3 +1,6 @@
+/* Imports Lato for headings and Lekton for paragraphs from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;0,900;1,400;1,900&family=Lekton:ital,wght@0,400;0,700;1,400&display=swap');
+
 @media only screen and (min-width: 1000px) {
     body {
         margin-left: 200px;
@@ -24,4 +27,93 @@
         margin-left: 500px;
         margin-right: 500px;
     }
+}
+
+body {
+    font-family: 'Lekton', monospace;
+    font-size: 1.25em
+}
+
+h1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    margin-bottom: 0;
+    font-size: 2.55em;
+}
+
+h2 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    border-left: 4px solid;
+    padding: 5px 0 5px 10px;
+    font-size: 1.65em;
+}
+
+h3 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 1.45em;
+}
+
+div {
+    border-bottom: 2px solid;
+    padding: 5px 0 5px 0;
+}
+
+div h2 {
+    margin: 5px 0 0 0;
+}
+
+div h3 {
+    margin: 10px 0 10px 0;
+}
+
+table {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 7px;
+}
+
+#header p {
+    margin: 0 0 10px 0;
+    font-family: 'Lato', sans-serif;
+}
+
+#footer {
+    border-bottom: 0;
+}
+
+.code {
+    border: 0px hidden;
+    background-color: #E0E0E0;
+    padding: 1px 15px 1px 15px;
+}
+
+.code p {
+    margin: 15px 0 15px 0;
+    padding: 0;
+}
+
+.block {
+    border-bottom: 0;
+    margin-left: 14px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.member span {
+    display: flex;
+    align-items: center;
+    margin-top: 0;
+}
+
+.member i {
+    margin-left: 5px
+}
+
+.member a {
+    color: black;
 }
