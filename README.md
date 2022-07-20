@@ -42,7 +42,7 @@ Background: Malaysian Chinese
 
 IT Experience includes a plethora of different skill sets and abilities such as: managing their own virtual server that they’ve rented from a hosting service, hosting their own websites, configuring DNS with an UI, coding several automation scripts and chatbots with Python, writing their own static websites with HTM and CSS, build their own PC, flashing new operating systems into their smartphones, managing household networking and several more. Their dedication to continual learning and reinforcement to learning the basics is a key factor in their learning path throughout life. 
 
- <p> <a href="https://kh-eng-rmit.github.io/" target="_blank">Kaiheng's Github Page</a></p>
+ <p> <a href="https://kh-eng-rmit.github.io/" target="_blank">Kaihang's Github Page</a></p>
 
  
 
@@ -153,7 +153,7 @@ Microsoft teams is used as a general communication programme between users of th
 
 <p> <a href="https://ahmkhalaf.github.io/Assignment-1/" target="_blank">Ahmed's Github Page</a></p>
 
-<p> <a href="https://kh-eng-rmit.github.io/" target="_blank">Kaiheng's Github Page</a></p>
+<p> <a href="https://kh-eng-rmit.github.io/" target="_blank">Kaihang's Github Page</a></p>
 
 <p> <a href="https://ramsey1234567.github.io/COSC2196-Introduction-to-Information-Technology/PDF/ProjectPDF.pdf" target="_blank">Nicholas's Github Page</a></p>
 
