@@ -1,0 +1,27 @@
+@media only screen and (min-width: 1000px) {
+    body {
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+}
+
+@media only screen and (min-width: 1350px) {
+    body {
+        margin-left: 300px;
+        margin-right: 300px;
+    }
+}
+
+@media only screen and (min-width: 1550px) {
+    body {
+        margin-left: 400px;
+        margin-right: 400px;
+    }
+}
+
+@media only screen and (min-width: 1750px) {
+    body {
+        margin-left: 500px;
+        margin-right: 500px;
+    }
+}
