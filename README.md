@@ -211,7 +211,7 @@ Over this period, the number of workers: is expected to grow strongly and is lik
 The job generally gravitates to these two main industries, Financial and Insurance services, or Professional, scientific, and technical services.
 
 ### Kaihang - Software Programmer –
-Employers see ap projected change of an increase of 27% which is approximately 42,200 jobs within this specific space for software programmers 
+Employers see a projected change of an increase of 27% which is approximately 42,200 jobs within this specific space for software programmers 
 ‘The NSC produces employment projections to show where likely future job opportunities may be. The latest data are for the five years from November 2021 to November 2026. Over this period, the number of workers: is expected to grow very strongly and is likely to reach 198,400 by 2026. Source: National Skills Commission Employment Projections to 2026. ‘https://labourmarketinsights.gov.au/occupation-profile/software-and-applications-programmers?occupationCode=2613’ 
 The job generally gravitates to these two main industries, Professional, scientific, and technical services, or financial and insurance services 
 
@@ -545,7 +545,7 @@ One thing learned about groups:
 The sheer amount of content that is required of this project would have been difficult to allocate suitably within a group. 
 It would be a better learning experience for us to be focussed more on learning and applying HTML coding, or learning specific aspects of GitHub editors etc,
 or doing individual projects, rather than this assignment being so centered around the large amount of content that was involved with completing the requests of the assignement, and organising Team Meetings effectively, which simply did not happen for us.
- 
+
 
 ## Ahmed – 
 
@@ -568,20 +568,30 @@ I know this has been said before, but I have learned that every group needs a le
 
 Q: **What went well**
 
-A: I will be honest, the group is completely dysfunctional, because nobody took the lead until Nicholas stepped up late int the process. Nicholas is the only one that's doing the majority of the work until Ahmed and Amy joined in in the eleventh hour, because of personal issues with life as well as schedule schedule conflicts, and did the rest. I barely managed to get myself enrolled into the university accessibility support and get my own personal extension and, by the time I finally managed to both catch up to the syllabus and feeling mentally well enough to start on this assignment, pretty much all the document and research work has been done.
+A: I will be honest, the group is completely dysfunctional, because nobody took the lead at any time. Nicholas is the only one that's doing the majority of the work until Ahmed and Amy joined in in the eleventh hour, because of personal issues with life as well as schedule schedule conflicts, and did the rest.
 
-So no, nothing went well at all.
+Just to add some context before I continue, I've been officially diagnosed with dysthymia (persistent depressive disorder) and social anxiety disorder, which is why I was able to register with the university's accessibility support.
+
+In hindsight, I should have made this clear with my teammates the first thing we talked, but I've had people accuse me of using my depression & anxiety disorder as an excuse for not being able to do my work before when I truly have no mental energy to handle anything that's even remotely social. My therapist wasn't able to sign my support registration form until late into the assignment either. I hope whoever is reading this can see why I chose not to disclose until now in this document.
+
+I barely got my own personal extension through accessibility support and, by the time I finally managed to both catch up to the syllabus and feeling mentally well enough to start on this assignment, pretty much all the document and research work has been done.
+
+It is my fault for not communicating too much before their deadline, despite already having mentioned to them that I've gotten my extension as soon as I was granted it, so I try to make up as much as I could to contribute my parts once I started feeling well enough and started communicating a lot, which is right after their deadlines. 
+
+But, aside from Ahmed responding to me asking for reviews of the website's drafts, all my messages have pretty much been ignored outright, when I need feedback for the website and the way this document was constructed. I can't help but feel that they'd rather move on from this assignment rather than trying to help me submit my contributions as a team.
+
+So no, nothing went well at all. In fact, I would go further and call it a mess. I'm utterly frustrated with how I was being treated as a team member.
 
 Q: **What could be improved**
 
 A: There should have been a lot more communication going on in the early stages. I doubt we wouldn't have been in this mess if we had that but without it, we straight up have no leader, which means there's no one to assign any responsibilities to, leading to a lot of overlaps, then it spirals down from here.
 
-I'll have to agree with Amy here, this admittedly-quite-forced group assignment was a *terrible* idea to begin with with how soon the deadline is, especially when you consider that most of the members in this group had to deal with life and their own schedules. The deadline should have been at least 2 weeks later, not one. We all end up getting rushed upon by it.
+I'll have to agree with Amy here, this admittedly-quite-forced group assignment was a *terrible* idea to begin with when you consider that most of the members in this group had to deal with life and their own schedules. The deadline should have been at least 2 weeks later, not one. We all end up getting rushed upon by it, and it doesn't help us submit our best works.
 
 Q: **At least one thing that was surprising**
 
-A: The very bare amount of communications and coordination right up until the last minute possible, and I can't assign any faults to anyone in this team considering everyone's circumstances.
+A: The very bare amount of communications and coordination right up until the last minute possible, and I can't assign any faults to anyone in this team considering everyone's circumstances. But, if there is one thing I can definitely blame my teammates for, it's for the exact same reason between their deadline and my extension's deadline, where I needed help and feedbacks the most.
 
 Q: **At least one thing you've learned about groups**
 
-A: I'm basically repeating myself here, but somebody has to take the lead, and there needs to be a *lot* of open communications and coordinations as well, in order for a group to be effective in the first place. Without it, everything just falls apart.
+A: I'm basically repeating myself here, but there needs to be a *lot* of open communications and coordinations as well, with or without a leader, in order for a group to be effective in the first place. Without it, everything just falls apart.
