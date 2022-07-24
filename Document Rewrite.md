@@ -290,7 +290,7 @@ A component of AI and computer science, machine learning uses algorithms to act 
 
 The complexity of machine learning depends on the task at hand and the technique employed to complete it. A machine learning model analyses data to find patterns; it then makes use of these revelations to carry out the task at hand more effectively. Machine learning can automate any task that depends on a set of data points or rules, such as answering customer service calls and reviewing resumes.
 
-supervised learning, unsupervised learning, semi-supervised learning, and reinforcement learning are the four main machine learning models.
+Supervised learning, unsupervised learning, semi-supervised learning, and reinforcement learning are the four main machine learning models.
 
 In supervised learning, a computer is given a set of labelled data so it may learn how to perform a human skill. This approach, which aims to mimic human learning, is the simplest.
 
@@ -314,17 +314,17 @@ Machines can access more data than any person can. AI can identify trends and us
 
 Machine learning is used in:
 
-Financial services- to identify important insights in data and prevent fraud.
+- Financial services- to identify important insights in data and prevent fraud.
 
-Government- machine learning can also help detect fraud and minimize identity theft.
+- Government- machine learning can also help detect fraud and minimize identity theft.
 
-Health care- wearable devices and sensors that can use data to assess a patient's health in real time
+- Health care- wearable devices and sensors that can use data to assess a patient's health in real time
 
-Retail- retailers rely on machine learning to capture data, analyse it and use it to personalize a shopping experience,
+- Retail- retailers rely on machine learning to capture data, analyse it and use it to personalize a shopping experience,
 
-Oil and gas- The number of machine learning use cases for this industry is vast – and still expanding. Streamlining oil distribution to make it more efficient and cost-effective.  Analyzing minerals in the ground, finding new energy sources.
+- Oil and gas- The number of machine learning use cases for this industry is vast – and still expanding. Streamlining oil distribution to make it more efficient and cost-effective.  Analyzing minerals in the ground, finding new energy sources.
 
-Transportation- Analyzing data to identify patterns and trends is key to the transportation industry, which relies on making routes more efficient and predicting potential problems to increase profitability.
+- Transportation- Analyzing data to identify patterns and trends is key to the transportation industry, which relies on making routes more efficient and predicting potential problems to increase profitability.
 
 ### How will this affect you?
 
@@ -334,33 +334,20 @@ Transportation- Analyzing data to identify patterns and trends is key to the tra
 
 Machine learning will be used and implemented in many ways in our day-to-day lives, and we will see it affect us in ways such as the advancement of technologies in:
 
-Intelligent gaming
-
-Self driving cars and automated transportations
-
-Cyborg technology
-
-Taking over dangerous jobs
-
-Environmental protection
-
-Robots as friends
-
-Improved elder care
-
-Enhanced healthcare
-
-Innovations in banking
-
-Personalised digital media
-
-Home security and smart homes
-
-Streamlined logistics and distributions
-
-Digital personal assistants
-
-Providing customised news and market reports
+- Intelligent gaming
+- Self driving cars and automated transportations
+- Cyborg technology
+- Taking over dangerous jobs
+- Environmental protection
+- Robots as friends
+- Improved elder care
+- Enhanced healthcare
+- Innovations in banking
+- Personalised digital media
+- Home security and smart homes
+- Streamlined logistics and distributions
+- Digital personal assistants
+- Providing customised news and market reports
 
 ## Project Idea
 
