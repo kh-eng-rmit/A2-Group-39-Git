@@ -64,7 +64,7 @@ Using the information gathered from the table above:
 
 - **Nicholas** is primarily an **Auditory learner**
 
-### Learning Styles !!!!!!!!!!! PUT THIS SECTION ONTO WEBSITE !!!!!!!!!!!!!!!!!!!
+### Additional Tests
 
 Ahmed selected a creativity test in which they scored 54 out of 80:
 
@@ -78,12 +78,12 @@ Kaihang selected a creativity test in which they scored 50.91 out of 100:
 
 ![Additional Test - Kaihang.png]
 
-Nicholas selected another personality trait test in which he scored:
+Nicholas selected another personality trait test, OCEAN, in which he scored:
 - 60% out of 100% for openness
-- 94% out of 100%
-- 85% out of 100%
-- 19% out of 100%
-- % out of 100%
+- 94% out of 100% for Conscientiousness
+- 85% out of 100% for Extraversion
+- 19% out of 100% for Agreeableness
+- 8% out of 100% for Neuroticism
 
 ![Additional Test - Nicholas 1.png]
 ![Additional Test - Nicholas 2.png]
@@ -132,8 +132,6 @@ The job titles for each member's ideal jobs would be:
 
 The following are data of employers' demand for each job titles:
 
-!!! The section below is not on website yet !!!
-
 ### Software Engineer (Ahmed)
 
 The NSC states that 'While data are not available for this occupation, projections data are available for the parent occupation, 'Software and Applications Programmers', instead.[1][2]
@@ -157,8 +155,6 @@ The latest projections data between November 2021 and November 2026 suggests tha
 The NSC states that 'While data are not available for this occupation, projections data are available for the parent occupation, 'Financial Investment Advisers and Managers'[4], which we will be using instead.
 
 The latest projections data between November 2021 and November 2026 suggests that the number of workers is expected to grow strongly, from 62100 in 2021, to 68800 in 2026, about 6700 jobs or a 10.7% increase.[5]
-
-!!! The section above is not on website yet !!!
 
 ### Ranking by Employers' Demand
 
