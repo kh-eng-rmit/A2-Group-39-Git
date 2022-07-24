@@ -8,27 +8,6 @@
     }
 }
 
-@media only screen and (min-width: 1350px) {
-    body {
-        margin-left: 300px;
-        margin-right: 300px;
-    }
-}
-
-@media only screen and (min-width: 1550px) {
-    body {
-        margin-left: 400px;
-        margin-right: 400px;
-    }
-}
-
-@media only screen and (min-width: 1750px) {
-    body {
-        margin-left: 500px;
-        margin-right: 500px;
-    }
-}
-
 body {
     font-family: 'Lekton', monospace;
     font-size: 1.25em
@@ -47,6 +26,7 @@ h2 {
     border-left: 4px solid;
     padding: 5px 0 5px 10px;
     font-size: 1.65em;
+    color: #de9919;
 }
 
 h3 {
@@ -82,7 +62,7 @@ td {
     font-family: 'Lato', sans-serif;
 }
 
-#footer {
+#credits {
     border-bottom: 0;
 }
 
